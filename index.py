@@ -5,8 +5,8 @@ import tkinter.messagebox as tkMessageBox
 
 #DEVELOPED BY Mark Arvin
 root = Tk()
-root.title("India's Contact List ")
-width = 700
+root.title("List of contact from India's Contact List")
+width= 700
 height = 400
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
